@@ -1,0 +1,13 @@
+Package: CrcPik3caAllelicCounts
+Title: Dataset from Colon Cancer PIK3CA Mutant Allelic Count
+Version: 0.0.0.9000
+Authors@R: 
+    person("André", "Duarte", , "aarbduarte@gmail.com", role = c("aut", "cre"))
+Description: Downloads the dataset created from TCGA-COAD project data using a pipeline that reduces reference allelic bias..
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
